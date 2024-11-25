@@ -35,6 +35,7 @@ end
 
 # add themes
 include("dark.jl")
+include("cooper.jl")
 include("ggplot2.jl")
 include("solarized.jl")
 include("sand.jl")
