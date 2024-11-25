@@ -1,4 +1,4 @@
-_themes[:cooper] = PlotTheme(linewidth = 4,
+const _cooper = PlotTheme(linewidth = 4,
                              markersize = 10,
                              titlefontsize = 24,
                              guidefontsize = 18,
